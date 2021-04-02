@@ -1,1 +1,1 @@
-# Easy-Tool-Reboot-To-The-Recovery-Mode
+Head to Settings > Developer options on your Android device and enable the USB debugging option
